@@ -12,17 +12,17 @@ const tracks = [
   {
     title: 'Indila - Love Story ',
     src: './mp3/Indila - Love Story (3).mp3',
-    cover: '.images/Indila - love story.jpg',
+    cover: '../images/Indila - love story.jpg',
   },
   {
     title: 'Есенин',
     src: './mp3/Есенин.mp3',
-    cover: '.images/Есенин.jpg',
+    cover: '../images/Есенин.jpg',
   },
   {
     title: 'На Грани',
     src: './mp3/На Грани.mp3',
-    cover: '.images/На Грани.jpg',
+    cover: '../images/На Грани.jpg',
   },
 ];
 
